@@ -82,12 +82,6 @@ It helps simulate how ambulances, fire trucks, or police vehicles can find the *
 
 ---
 
-## 📸 Screenshots
-
-*(Add your project screenshots here for better visualization)*
-
----
-
 ## 📚 References
 
 * [NetworkX Documentation](https://networkx.org/documentation/stable/)
