@@ -96,6 +96,3 @@ It helps simulate how ambulances, fire trucks, or police vehicles can find the *
 This project shows the practical application of **graph algorithms** in real-life emergency routing.
 It highlights why **BFS is preferred** over DFS for shortest-path problems in unweighted graphs, while also providing an interactive and educational GUI simulation.
 
----
-
-Do you want me to also **add a section with sample outputs (like BFS vs DFS path results)** inside the README so it’s more engaging for recruiters or GitHub visitors?
